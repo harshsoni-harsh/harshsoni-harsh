@@ -23,7 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsoni-harsh&" alt="harshsoni-harsh" /></p>
 
 
-<a href='https://github.com/marketplace/actions/quote-readme'>
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+<h1> 😂 Here is a random joke that'll make you laugh! </h1>
+
+<img src=https://readme-jokes.vercel.app/api />
