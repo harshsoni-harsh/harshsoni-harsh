@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 💼 View my portfolio at **https://harshsoni.vercel.app**
+
 - 📫 How to reach me **harsh7428@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
